@@ -1,6 +1,6 @@
 # DSN Bootcamp Qualification Hackathon 2026 — ML Track
 
-## Predicting `total_sales` with Leakage-Safe Feature Engineering and CatBoost
+### Predicting `total_sales` with Leakage-Safe Feature Engineering and CatBoost
 
 > **Competition:** DSN Bootcamp Qualification Hackathon 2026 — ML Track
 > **Author:** Adenike Adewumi
